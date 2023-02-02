@@ -19,7 +19,7 @@
   <img src="./img/js.svg" width="40">
   <img src="./img/ts.svg" width="40">
   <img src="./img/react.svg" width="40">
-  <img src="./img/next.svg" width="40">
+  <img src="./img/next.png" width="40">
   <img src="./img/node.svg" width="40">
   <img src="./img/postgresql.svg" width="40">
   <img src="./img/jest.svg" width="40">
@@ -27,7 +27,7 @@
   <img src="./img/git.svg" width="40">
   <img src="./img/github.svg" width="40">
   <img src="./img/figma.svg" width="40">
-  <img src="./img/miro.svg" width="40">
+  <img src="./img/miro.png" width="40">
   <img src="./img/trello.svg" width="40">
   
  
