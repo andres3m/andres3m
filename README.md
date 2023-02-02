@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andres Espin Martinez
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the skills to become Full Stack Developer at [School of Code](https://www.schoolofcode.co.uk/)
-- 💞️ I’m looking to collaborate on projects with my classroom mates and teachers
+- 💞️ I’m looking to collaborate on projects with anyone interested on Front end and Back end projects
 - 📫 How to reach me:
 
 ###
