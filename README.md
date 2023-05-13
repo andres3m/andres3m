@@ -9,7 +9,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/andrees3m?label=Twitter&style=social)](https://twitter.com/andrees3m)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=andres3m.andres3m)](https://github.com/andres3m/)
 ![image](https://www.codewars.com/users/andres3m/badges/small)
-
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres3m&layout=compact)](https://github.com/andres3m/github-readme-stats)
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -32,6 +34,8 @@
   
  
 </div>
+
+
 
 <!---
 andres3m/andres3m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
