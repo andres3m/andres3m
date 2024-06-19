@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Andres Espin Martinez
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning the skills to become Full Stack Developer at [School of Code](https://www.schoolofcode.co.uk/)
-- 💞️ I’m looking to collaborate on projects with anyone interested on Front end and Back end projects
-- 📫 How to reach me:
+
+<h2 align="center">Hi there 👋 I'm Andrés, Electronics technician turned Software developer</h2>
+
+<div align="center">
+After 7 years working as with hardware I decided to swich careers and explore the other side of tech.  I completed the School of code bootcamp which allowed me to work on several project and develop my skills as a full-stack developer, and I'm now working as a full-time software developer and focusing on learning C# and AWS.
+
+I'm on the lookout for new opporunities and challenges, so feel free to reach me out. I'm always open for a chat.
 
 ###
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-e-036492108/)
@@ -13,6 +15,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres3m&layout=compact)](https://github.com/andres3m/github-readme-stats)
 <br>
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: inline_block" align="center">
