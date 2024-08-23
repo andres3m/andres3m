@@ -2,7 +2,7 @@
 <h2 align="center">Hi there 👋 I'm Andrés, Software Developer</h2>
 
 <div align="center">
-After 7 years working as technician with hardware I decided to swich careers and explore the other side of tech.  I completed the School of code bootcamp which allowed me to work on several projects and develop my skills as a full-stack developer, and I'm now working as a full-time software developer which allowed me to C# and AWS.
+After 7 years working as technician with hardware I decided to swich careers and explore the other side of tech.  I completed the School of code bootcamp which allowed me to work on several projects and develop my skills as a full-stack developer, and I'm now working as a full-time software developer which allowed me to learn C# and AWS.
 
 I'm on the lookout for new opporunities and challenges, so feel free to reach me out. I'm always open for a chat.
 
