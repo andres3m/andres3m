@@ -10,7 +10,6 @@ After working as hardware technician for 7 years, I switched careers to become a
 * ✉ Feel free to contact me at [andresmartinezuk@gmail.com](mailto:andresmartinezuk@gmail.com)
 * 🌱 Learning **GO, MongoDB and LLM's integration**
 * 🤝 I'm open to collaborating on anything Full-stack web-related
-* ⚡ Some of my hobbies/interests are outdoors (SUP, surfing, hiking, camping), motorsports (F1 fan, go karting), running (training for my first 10K race), and board games.
 
 ### Skills
 <div style="display: inline_block" align="left">
