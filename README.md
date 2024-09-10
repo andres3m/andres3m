@@ -42,7 +42,7 @@ After working as hardware technician for 7 years, I switched careers to become a
 * 🏔 Hiking
 * 🏕 Camping
 * 🏎 F1 and go karting
-* 🏃🏽‍♂️ Running
+* 🏃🏽‍♂️ Running (training for my first 10k race)
 * 🍓 Plants
 * 🎮 Gaming
 
