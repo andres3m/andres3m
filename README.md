@@ -25,7 +25,8 @@ After working as hardware technician for 7 years, I switched careers to become a
   <img src="./img/jest.svg" width="40">
   <img src="./img/cypress.svg" width="40">
   <img src="./img/git.svg" width="40">
-  <img src="./img/github.svg" width="40">
+  <img src="./img/aws.png" width="40">
+  <img src="./img/devops.png" width="40">
   <img src="./img/figma.svg" width="40">
   <img src="./img/miro.png" width="40">
   <img src="./img/trello.svg" width="40">
