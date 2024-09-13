@@ -35,8 +35,8 @@ After working as hardware technician for 7 years, I switched careers to become a
 ### Socials
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-e-036492108/)
 [![Twitter](https://img.shields.io/twitter/follow/andrees3m?label=Twitter&style=social)](https://twitter.com/andrees3m)
-<!--[![visitors](https://visitor-badge.laobi.icu/badge?page_id=andres3m.andres3m)](https://github.com/andres3m/)
-![image](https://www.codewars.com/users/andres3m/badges/small) -->
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=andres3m.andres3m)](https://github.com/andres3m/)
+<!--![image](https://www.codewars.com/users/andres3m/badges/small) -->
 
 ### Interests
 * 🏄🏽‍♂️ SUP and surfing
