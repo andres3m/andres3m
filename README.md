@@ -8,7 +8,7 @@ After working as hardware technician for 7 years, I switched careers to become a
 * 📜 Graduated from a 16 week intensive bootcamp at the School Of Code
 * 👨🏼‍💻 Find my projects at [my portfolio](https://andres3m.github.io/personal-website/)
 * ✉ Feel free to contact me at [andresmartinezuk@gmail.com](mailto:andresmartinezuk@gmail.com)
-* 🌱 Learning **GO, MongoDB and LLM's integration**
+* 🌱 Learning **GO, Python and LLM's integration**
 * 🤝 I'm open to collaborating on anything Full-stack web-related
 
 ### Skills
