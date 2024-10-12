@@ -9,7 +9,7 @@ After working as hardware technician for 7 years, I switched careers to become a
 * 👨🏼‍💻 Find my projects at [my portfolio](https://andres3m.github.io/personal-website/)
 * ✉ Feel free to contact me at [andresmartinezuk@gmail.com](mailto:andresmartinezuk@gmail.com)
 * 🌱 Learning **Go, Python and LLM's integration**
-* 🤝 I'm open to collaborating on anything Full-stack web-related
+* 🤝 I'm open to collaborating on anything Full-stack or web-related
 
 ### Skills
 <div style="display: inline_block" align="left">
