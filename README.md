@@ -11,26 +11,8 @@ After seven years as a hardware technician, I transitioned into full-stack devel
 * 🌱 Curious about learning **Go, Python and LLM's integration**
 * 🤝 I'm open to collaborating on anything Full-stack or web-related
 
-### Skills
-<div style="display: inline_block" align="left">
-  <img src="./img/html.svg" width="40">
-  <img src="./img/css.svg" width="40">
-  <img src="./img/js.svg" width="40">
-  <img src="./img/ts.svg" width="40">
-  <img src="./img/react.svg" width="40">
-  <img src="./img/next_js_logo.png" width="40">
-  <img src="./img/node.svg" width="40">
-  <img src="./img/c_sharp_logo.png" width="40">
-  <img src="./img/postgresql.svg" width="40">
-  <img src="./img/jest.svg" width="40">
-  <img src="./img/cypress.svg" width="40">
-  <img src="./img/git.svg" width="40">
-  <img src="./img/aws.png" width="40">
-  <img src="./img/devops.png" width="40">
-  <img src="./img/figma.svg" width="40">
-  <img src="./img/miro.png" width="40">
-  <img src="./img/trello.svg" width="40">
-</div>
+### 🧠 Skills
+<table> <tr> <th>Frontend</th> <th>Backend</th> <th>Base de Datos</th> <th>Testing</th> <th>DevOps & Tools</th> </tr> <tr> <td align="center"> <img src="./img/html.svg" width="40"><br> <img src="./img/css.svg" width="40"><br> <img src="./img/js.svg" width="40"><br> <img src="./img/ts.svg" width="40"><br> <img src="./img/react.svg" width="40"><br> <img src="./img/next_js_logo.png" width="40"><br> <img src="./img/tailwind.svg" width="40"><br> <img src="./img/figma.svg" width="40"><br> <img src="./img/miro.png" width="40"> </td> <td align="center"> <img src="./img/node.svg" width="40"><br> <img src="./img/c_sharp_logo.png" width="40"><br> <img src="./img/prisma.svg" width="40"> </td> <td align="center"> <img src="./img/postgresql.svg" width="40"><br> <img src="./img/mariadb.svg" width="40"> </td> <td align="center"> <img src="./img/jest.svg" width="40"><br> <img src="./img/cypress.svg" width="40"> </td> <td align="center"> <img src="./img/aws.png" width="40"><br> <img src="./img/devops.png" width="40"><br> <img src="./img/git.svg" width="40"><br> <img src="./img/trello.svg" width="40"><br> <img src="./img/wordpress.svg" width="40"> </td> </tr> </table>
 
 ### Socials
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-e-036492108/)
