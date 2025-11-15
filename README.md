@@ -2,13 +2,13 @@ Hi there, I'm Andrés 👋
 ============================
 ### An entusiastic Full Stack Web Developer
 
-After working as hardware technician for 7 years, I switched careers to become a Full-Stack Developer. My first role as a Software Developer within a fast-paced, agile team has provided me with a good foundation to build upon and has heightened my enjoyment and understanding of technology.
+After seven years as a hardware technician, I transitioned into full-stack development—bringing a strong technical foundation and a deepened passion for building technology.
 
 * 🌍 I'm based in Birmingham, UK
 * 📜 Graduated from a 16 week intensive bootcamp at the School Of Code
 * 👨🏼‍💻 Find my projects at [my portfolio](https://andres3m.github.io/personal-website/)
 * ✉ Feel free to contact me at [andresmartinezuk@gmail.com](mailto:andresmartinezuk@gmail.com)
-* 🌱 Learning **Go, Python and LLM's integration**
+* 🌱 Curious about learning **Go, Python and LLM's integration**
 * 🤝 I'm open to collaborating on anything Full-stack or web-related
 
 ### Skills
