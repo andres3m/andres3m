@@ -1,18 +1,59 @@
 Hi there, I'm Andrés 👋
 ============================
-### An entusiastic Full Stack Web Developer
+### Full Stack Web Developer
 
-After seven years as a hardware technician, I transitioned into full-stack development—bringing a strong technical foundation and a deepened passion for building technology.
+Hardware roots, Web branches — 10 years of building technology with a strong foundation and a deepened passion for the craft.
 
-* 🌍 I'm based in Birmingham, UK
-* 📜 Graduated from a 16 week intensive bootcamp at the School Of Code
+* 🌍 UK Based
+* 📜 Electronics Engineering and Full Stack Web developemnt Bootcamp
 * 👨🏼‍💻 Find my projects at [my portfolio](https://andres3m.github.io/personal-website/)
 * ✉ Feel free to contact me at [andresmartinezuk@gmail.com](mailto:andresmartinezuk@gmail.com)
-* 🌱 Curious about learning **Go, Python and LLM's integration**
+* 🌱 Curious about learning **Go, Python and LLM's**
 * 🤝 I'm open to collaborating on anything Full-stack or web-related
 
 ### 🧠 Skills
-<table> <tr> <th>Frontend</th> <th>Backend</th> <th>Database</th> <th>Testing</th> <th>DevOps & Tools</th> </tr> <tr> <td align="center"> <img src="./img/html.svg" width="40"><br> <img src="./img/css.svg" width="40"><br> <img src="./img/js.svg" width="40"><br> <img src="./img/ts.svg" width="40"><br> <img src="./img/react.svg" width="40"><br> <img src="./img/next_js_logo.png" width="40"><br> <img src="./img/tailwind.svg" width="40"><br> <img src="./img/figma.svg" width="40"><br> <img src="./img/miro.png" width="40"> </td> <td align="center"> <img src="./img/node.svg" width="40"><br> <img src="./img/c_sharp_logo.png" width="40"><br> <img src="./img/prisma.svg" width="40"> </td> <td align="center"> <img src="./img/postgresql.svg" width="40"><br> <img src="./img/mariadb.svg" width="40"> </td> <td align="center"> <img src="./img/jest.svg" width="40"><br> <img src="./img/cypress.svg" width="40"> </td> <td align="center"> <img src="./img/aws.png" width="40"><br> <img src="./img/devops.png" width="40"><br> <img src="./img/git.svg" width="40"><br> <img src="./img/trello.svg" width="40"><br> <img src="./img/wordpress.svg" width="40"> </td> </tr> </table>
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Testing</th>
+    <th>DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./img/html.svg" width="40"><br><sub>HTML</sub><br><br>
+      <img src="./img/css.svg" width="40"><br><sub>CSS</sub><br><br>
+      <img src="./img/js.svg" width="40"><br><sub>JavaScript</sub><br><br>
+      <img src="./img/ts.svg" width="40"><br><sub>TypeScript</sub><br><br>
+      <img src="./img/react.svg" width="40"><br><sub>React</sub><br><br>
+      <img src="./img/next_js_logo.png" width="40"><br><sub>Next.js</sub><br><br>
+      <img src="./img/tailwind.svg" width="40"><br><sub>Tailwind</sub><br><br>
+      <img src="./img/wordpress.svg" width="40"><br><sub>WordPress</sub>
+    </td>
+    <td align="center">
+      <img src="./img/node.svg" width="40"><br><sub>Node.js</sub><br><br>
+      <img src="./img/c_sharp_logo.png" width="40"><br><sub>C#</sub><br><br>
+      <img src="./img/prisma.svg" width="40"><br><sub>Prisma</sub>
+    </td>
+    <td align="center">
+      <img src="./img/postgresql.svg" width="40"><br><sub>PostgreSQL</sub><br><br>
+      <img src="./img/mariadb.svg" width="40"><br><sub>MariaDB</sub>
+    </td>
+    <td align="center">
+      <img src="./img/jest.svg" width="40"><br><sub>Jest</sub><br><br>
+      <img src="./img/cypress.svg" width="40"><br><sub>Cypress</sub>
+    </td>
+    <td align="center">
+      <img src="./img/aws.png" width="40"><br><sub>AWS</sub><br><br>
+      <img src="./img/devops.png" width="40"><br><sub>Azure DevOps</sub><br><br>
+      <img src="./img/git.svg" width="40"><br><sub>Git</sub><br><br>
+      <img src="./img/trello.svg" width="40"><br><sub>Trello</sub><br><br>
+      <img src="./img/figma.svg" width="40"><br><sub>Figma</sub><br><br>
+      <img src="./img/miro.png" width="40"><br><sub>Miro</sub>
+    </td>
+  </tr>
+</table>
 
 ### Socials
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-e-036492108/)
@@ -21,13 +62,12 @@ After seven years as a hardware technician, I transitioned into full-stack devel
 <!--![image](https://www.codewars.com/users/andres3m/badges/small) -->
 
 ### Interests
-* 🏄🏽‍♂️ SUP and surfing
-* 🏔 Hiking
+* 🏃🏽‍♂️ Running -> training for my first half marathon
+* 🏄🏽‍♂️ (Waves) ? Surfing : (Water) ? SUP : Surfskate
 * 🏕 Camping
-* 🏎 F1 and go karting
-* 🏃🏽‍♂️ Running (completed my first 10K race)
-* 🍓 Plants
-* 🎮 Gaming
+* 🏔 Hiking
+* 🏎 Racing
+  
 
 ### Github Stats:
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andres3m&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
