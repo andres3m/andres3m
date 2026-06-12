@@ -5,7 +5,7 @@ Hi there, I'm Andrés 👋
 Hardware roots, Web branches — 10 years of building technology with a strong foundation and a deepened passion for the craft.
 
 * 🌍 UK Based
-* 📜 Electronics Engineering and Full Stack Web developemnt Bootcamp
+* 📜 Electronics Engineering and Full Stack Web Developemnt Bootcamp
 * 👨🏼‍💻 Find my projects at [my portfolio](https://andres3m.github.io/personal-website/)
 * ✉ Feel free to contact me at [andresmartinezuk@gmail.com](mailto:andresmartinezuk@gmail.com)
 * 🌱 Curious about learning **Go, Python and LLM's**
